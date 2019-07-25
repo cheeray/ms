@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Archiver-Version: Plexus Archiver
 Built-By: Chengwei.Yan
-Start-Class: com.yoogalu.ms.MicroPosApplication
+Start-Class: com.cheeray.ms.MsApplication
 Spring-Boot-Classes: BOOT-INF/classes/
 Spring-Boot-Lib: BOOT-INF/lib/
 Spring-Boot-Version: 2.0.0.M1
