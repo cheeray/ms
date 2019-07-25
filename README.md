@@ -137,3 +137,5 @@ spring:
 # Start service
 Run java application with main class "com.cheeray.ms.MicroService" and argument "start".
 Set VM argument to tell Spring which package to scan, for example: "-Dms.package=com.cheeray".
+# Create windows installer
+Package as windows installer by using Inno Setup, see "installer" for an example. 
