@@ -7,6 +7,6 @@ Spring-Boot-Lib: BOOT-INF/lib/
 Spring-Boot-Version: 2.0.0.M1
 Created-By: Apache Maven 3.3.3
 Build-Jdk: 1.8.0_45
-Main-Class: com.yoogalu.ms.MicroPosService
+Main-Class: com.cheeray.ms.MicroService
 Implementation-Version: 0.0.1
 
