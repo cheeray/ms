@@ -1,4 +1,4 @@
-package com.cheeray.ms.domain.validators;
+package com.cheeray.ms.api.domain;
 
 import java.util.Arrays;
 

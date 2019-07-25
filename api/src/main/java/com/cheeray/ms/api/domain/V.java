@@ -1,4 +1,4 @@
-package com.cheeray.ms.domain.validators;
+package com.cheeray.ms.api.domain;
 
 import java.util.Set;
 
@@ -7,8 +7,6 @@ import javax.validation.Validation;
 import javax.validation.ValidationException;
 import javax.validation.Validator;
 import javax.validation.ValidatorFactory;
-
-import com.cheeray.ms.api.domain.DomainObject;
 
 /**
  * Generic validator for domain entities.
