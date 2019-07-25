@@ -16,11 +16,11 @@ import org.springframework.stereotype.Component;
 
 import com.cheeray.ms.api.Loggable;
 import com.cheeray.ms.api.domain.DomainObject;
+import com.cheeray.ms.api.domain.InvalidFieldsException;
+import com.cheeray.ms.api.domain.V;
 import com.cheeray.ms.api.ex.MsException;
 import com.cheeray.ms.api.ex.RepositoryException;
 import com.cheeray.ms.api.ex.ServiceException;
-import com.cheeray.ms.domain.validators.InvalidFieldsException;
-import com.cheeray.ms.domain.validators.V;
 
 /**
  * AOP of log and exception handling.
