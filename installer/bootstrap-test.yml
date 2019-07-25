@@ -1,0 +1,12 @@
+spring:
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      config:
+        enabled: true
+        failFast: true
+        format: YAML
+        prefix: config/service
+        defaultContext: ms-example
+        profileSeparator: '::'
