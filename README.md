@@ -74,7 +74,7 @@ Example:
 spring:
   cloud:
     consul:
-      host: discovery.consul.com
+      host: localhost
       port: 80
       config:
         enabled: true
