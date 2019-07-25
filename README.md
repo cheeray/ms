@@ -20,7 +20,7 @@ Use the example as a quick start.
 		<artifactId>core</artifactId>
 	</dependency>
 </dependencies>
-```xml
+```
 
 ## Define a domain model:
 ```java
