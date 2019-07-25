@@ -13,13 +13,14 @@ Focus on domain model and services.
 Use the example as a quick start.
 
 ## Include dependency:
-
+```xml
 <dependencies>
 	<dependency>
 		<groupId>com.cheeray.ms</groupId>
 		<artifactId>core</artifactId>
 	</dependency>
 </dependencies>
+```xml
 
 ## Define a domain model:
 ```java
