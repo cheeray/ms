@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: Chengwei.Yan
+Start-Class: com.yoogalu.ms.MicroPosApplication
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Version: 2.0.0.M1
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_45
+Main-Class: com.yoogalu.ms.MicroPosService
+Implementation-Version: 0.0.1
+
