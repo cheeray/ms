@@ -136,3 +136,4 @@ spring:
   ```
 # Start service
 Run java application with main class "com.cheeray.ms.MicroService" and argument "start".
+Set VM argument to tell Spring which package to scan, for example: "-Dms.package=com.cheeray".
