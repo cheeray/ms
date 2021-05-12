@@ -18,7 +18,7 @@
 		<maven.compiler.version>3.6.1</maven.compiler.version>
 		<spring.cloud.version>Finchley.SR1</spring.cloud.version>
 		<spring.boot.version>2.1.6.RELEASE</spring.boot.version>
-		<spring.security.version>5.0.0.M1</spring.security.version>
+		<spring.security.version>5.2.10.RELEASE</spring.security.version>
 		<shade.version>3.0.0</shade.version>
 		<boot.maven.version>1.5.3.RELEASE</boot.maven.version>
 	</properties>
